@@ -82,3 +82,216 @@
 2023-02-17 10:13:00,024 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-02-17 10:13:00,030 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-02-17 10:13:00,032 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-02-17 19:53:59,944 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-21 23:18:05,712 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-28 15:06:01,951 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-01 15:01:59,232 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-01 15:05:21,547 [Worker-1: Launching rest-with-spring-boot-and-java-erudio - Startup] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:05:21,566 [Worker-1: Launching rest-with-spring-boot-and-java-erudio - Startup] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:05:21,569 [Worker-1: Launching rest-with-spring-boot-and-java-erudio - Startup] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:11:20,834 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-01 15:19:48,804 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:19:48,838 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:19:48,845 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:20:13,525 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:20:13,531 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:20:13,536 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:28:52,762 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:28:52,768 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:28:52,772 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:40:51,712 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:40:51,721 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:40:51,724 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:42:53,769 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:42:53,774 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:42:53,779 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:51:47,910 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:51:47,938 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:51:47,943 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:52:45,064 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:52:45,069 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:52:45,072 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:53:03,299 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:53:03,305 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:53:03,312 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:54:25,219 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:54:25,223 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:54:25,225 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:55:32,339 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:55:32,343 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:55:32,345 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:57:20,563 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:57:20,570 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:57:20,574 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 15:58:26,253 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 15:58:26,257 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 15:58:26,260 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 16:00:01,062 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 16:00:01,067 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 16:00:01,070 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 16:14:08,140 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 16:14:08,145 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 16:14:08,147 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 17:02:18,682 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 17:02:18,879 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 17:02:18,935 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:23:04,483 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:23:04,587 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:23:04,591 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:23:21,255 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:23:21,294 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:23:21,297 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:24:07,295 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:24:07,299 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:24:07,303 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:24:15,354 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:24:15,376 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:24:15,379 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:33:56,364 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:33:56,392 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:33:56,395 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:34:16,612 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:34:16,624 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:34:16,626 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:35:06,265 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:35:06,271 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:35:06,275 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:35:09,216 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:35:09,221 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:35:09,225 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:35:57,267 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:35:57,271 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:35:57,274 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:36:54,978 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:36:54,981 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:36:54,984 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:37:00,323 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:37:00,328 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:37:00,330 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:37:14,974 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:37:14,979 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:37:14,981 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:37:21,091 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:37:21,094 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:37:21,097 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:38:52,243 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:38:52,247 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:38:52,251 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:46:56,934 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:46:56,943 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:46:56,945 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:47:43,604 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:47:43,610 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:47:43,615 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:56:10,835 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:56:10,841 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:56:10,844 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:56:53,232 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:56:53,237 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:56:53,238 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:57:00,539 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:57:00,545 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:57:00,547 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:58:32,904 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:58:32,910 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:58:32,912 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:59:14,675 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:59:14,681 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:59:14,684 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-01 23:59:44,100 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-01 23:59:44,104 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-01 23:59:44,107 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:00:12,676 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:00:12,682 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:00:12,685 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:03:17,528 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:03:17,532 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:03:17,534 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:03:23,752 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:03:23,755 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:03:23,756 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:04:54,338 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:04:54,344 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:04:54,346 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:07:27,871 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:07:27,876 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:07:27,877 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:07:31,200 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:07:31,203 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:07:31,205 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:07:58,828 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:07:58,831 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:07:58,834 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:08:06,531 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:08:06,534 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:08:06,535 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 00:09:44,235 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 00:09:44,240 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 00:09:44,242 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:06:48,257 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-02 14:11:06,144 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:11:06,182 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:11:06,188 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:11:37,520 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:11:37,525 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:11:37,529 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:12:48,553 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:12:48,558 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:12:48,562 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:14:30,616 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:14:30,619 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:14:30,621 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:16:52,465 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:16:52,471 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:16:52,473 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:17:43,239 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:17:43,248 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:17:43,251 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:18:23,785 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:18:23,805 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:18:23,815 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:43:13,319 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:43:13,338 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:43:13,344 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:43:37,472 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:43:37,481 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:43:37,484 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:48:14,331 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:48:14,336 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:48:14,339 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:49:41,568 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:49:41,573 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:49:41,576 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:54:31,284 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:54:31,287 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:54:31,289 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:55:03,028 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:55:03,033 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:55:03,036 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:58:13,888 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:58:13,892 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:58:13,894 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:58:19,377 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:58:19,382 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:58:19,385 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 14:58:41,446 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 14:58:41,450 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 14:58:41,482 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 15:00:50,602 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:00:50,607 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:00:50,609 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 15:03:10,494 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:03:10,499 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:03:10,502 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 15:03:41,183 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:03:41,189 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:03:41,191 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 15:06:23,319 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:06:23,324 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:06:23,328 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 15:11:22,902 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:11:22,908 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:11:22,910 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
+2023-03-02 15:12:53,014 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:12:53,020 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:12:53,023 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Code\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavaWithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources

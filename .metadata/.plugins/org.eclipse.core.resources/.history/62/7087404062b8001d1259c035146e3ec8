@@ -1,0 +1,33 @@
+package br.com.erudio;
+
+import java.util.concurrent.atomic.AtomicLong;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import jakarta.websocket.server.PathParam;
+
+@RestController
+public class MathController {
+	
+	private final AtomicLong counter = new AtomicLong();
+	
+	@RequestMapping(value = "/sum/{numberOne}/{numberTwo}",
+			method=RequestMethod.GET)
+	public Double sum(
+			@PathParam(value = "numberOne") String numberOne,
+			@PathParam(value = "numberTwo") String numberTwo
+			) throws Exception{
+		
+		if (!isNumeric(numberOne)|| !isNumeric(numberTwo)){
+			throw new Exception();
+		}
+		return 1D;
+	}
+
+	private boolean isNumeric(String numberOne) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+}

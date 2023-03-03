@@ -1,0 +1,11 @@
+package br.com.erudio.exceptions.handler;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.RestController;
+
+//Controlar as Exceptions
+@ControllerAdvice
+@RestController
+public class CustomizedResponseEntityExceptionHandler {
+
+}
