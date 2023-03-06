@@ -19,4 +19,7 @@
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
     <fullyQualifiedTypeName name="br.com.erudio.exceptions.UnsupportedMathOperationExceptiom"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="br.com.erudio.math.SimpleMath"/>
+    <fullyQualifiedTypeName name="br.com.erudio.converts.NumberConverter"/>
 </qualifiedTypeNameHistroy>
