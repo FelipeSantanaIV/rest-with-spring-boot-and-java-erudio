@@ -1,9 +1,0 @@
-package br.com.erudio.exceptions;
-
-import java.io.Serializable;
-
-public class ExceptionResponse implements Serializable{
-	
-
-	
-}
